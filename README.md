@@ -29,3 +29,7 @@ Python, pandas, matplotlib, numpy
 
 ## How to view
 Open `insurance_charges_analysis.ipynb` to see the full analysis, code, and charts.
+
+## Data Source
+Public dataset commonly available on Kaggle 
+(Medical Cost Personal Datasets / health insurance charges).
